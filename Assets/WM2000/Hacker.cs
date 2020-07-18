@@ -17,6 +17,7 @@ public class Hacker : MonoBehaviour
     void Start()
     {
         ShowMainMenu("Hello Benjamin");
+        print("Fuck you Spencer!");
     }
     // Main menu code
     void ShowMainMenu(string greeting)
